@@ -3,7 +3,6 @@ package org.weatherapp.model;
 public class Forecast {
 
     private String city;
-    private String county;
 
     private String country;
     private Integer temperature;
